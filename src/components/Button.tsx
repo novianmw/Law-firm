@@ -11,7 +11,7 @@ export default function Button({ children, text, onClick, type = "submit", ...pr
         <button 
             {...props} 
             type={type} 
-            className={`inline-flex whitespace-nowrap items-center justify-center gap-2 px-4 h-10 text-white [&>svg]:h-5 [&>svg]:w-5 [&>svg]:stroke-1 ${props.className}`}
+            className={`inline-flex whitespace-nowrap items-center justify-center gap-2 px-4 h-10 text-white [&>svg:w-4] [&>svg:h-4] md:[&>svg]:h-5 md:[&>svg]:w-5 [&>svg]:stroke-1 ${props.className}`}
             onClick={onClick}>
             {text || children}
         </button>
