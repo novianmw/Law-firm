@@ -2,7 +2,7 @@ import { Navbar, Hero, About, Stats, PracticeArea, Testimonials, RecentProjects,
 
 export default function App() {
     return (
-        <div className="w-full overflow-hidden">
+        <div className="w-full overflow-hidden mx-auto">
             <Navbar />
             <Hero />
             <About />
