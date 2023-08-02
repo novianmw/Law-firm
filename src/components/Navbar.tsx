@@ -44,7 +44,7 @@ export default function Navbar() {
                     <input type="search" name="" id="" className="flex border rounded-lg py-1 md:py-2 pl-4 pr-5 w-full shadow-sm" />
                 </form>
             </div>
-            <nav className={`${toggle ? 'hidden' : 'flex'} absolute top-[82px] z-10 w-full border-b-2 bg-indigo-900`}>
+            <nav className={`${toggle ? 'hidden' : 'flex md:hidden'} absolute left-0 top-[82px] z-10 w-full border-b-2 bg-indigo-900`}>
                     <ul className="flex flex-col px-6 justify-between list-none">
                         <a href=""><li className="text-white hover:underline underline-offset-4 decoration-white hover:text-yellow-300">Home</li></a>
                         <a href=""><li className="text-white hover:underline underline-offset-4 decoration-white hover:text-yellow-300">About</li></a>
