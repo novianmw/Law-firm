@@ -6,7 +6,7 @@ export default function Hero() {
     return (
         <div className="relative w-full flex flex-col items-center">
             <div className="absolute h-[600px] w-full object-cover bg-black/50"></div>
-            <img className="h-[600px] w-full object-cover object-top" src={HeroImage} alt="Law-Image" />
+            <img className="-z-20 h-[600px] w-full object-cover object-top" src={HeroImage} alt="Law-Image" />
             <div className="absolute w-full flex items-center justify-between gap-32 px-24 py-32">
                 <div className="flex flex-col items-start justify-center w-full gap-y-5">
                     <h1 className="text-5xl font-bold text-white">We Are Specialise</h1>
