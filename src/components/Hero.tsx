@@ -7,7 +7,7 @@ export default function Hero() {
         <div style={{ backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(${HeroImage})`, backgroundSize: 'cover' }} 
             className="w-full h-full">
             <div className="flex flex-col md:flex-row justify-between md:justify-around items-center px-6 py-12 md:p-12">
-                <div className="flex flex-col items-center md:items-start py-12">
+                <div className="flex flex-col items-center md:items-start py-6">
                     <h1 className="w-[450px] pb-3 text-3xl md:text-5xl font-bold text-white text-center md:text-start">We are Specialised</h1>
                     <h1 className="w-[450px] pb-3 text-3xl md:text-5xl font-bold text-white text-center md:text-start">in All Criminal Law</h1>
                     <p className="pb-5 text-lg md:text-xl text-white text-center md:text-start uppercase">with over 15 years of law practice in indonesia</p>
@@ -24,6 +24,7 @@ export default function Hero() {
                         </div>
                     </div>
                 </div>
+                <div className="flex flex-col items-center md:items-start py-6">
                 <div className="flex flex-col items-start border-2 bg-white rounded p-12">
                     <div className="mb-5">
                         <h1 className="pb-1 text-xl md:text-2xl font-bold text-black">Will Assist in Finding a Lawyer</h1>
@@ -50,6 +51,7 @@ export default function Hero() {
                             search attorneys
                         </Button>
                     </form>
+                </div>
                 </div>
             </div>
         </div>
