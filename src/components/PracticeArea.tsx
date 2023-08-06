@@ -1,9 +1,8 @@
-import { content1, content2, content3, content4, content5, icon4, icon5 } from "../assets/images/list"
-import { services } from "../constant"
-import Button from "./Button"
+import { content1, content2, content3, content4, content5, icon4, icon5 } from '../assets/images/list'
+import { services } from '../constant'
+import Button from './Button'
 
 export default function PracticeArea() {
-
     return (
         <div className="flex flex-col items-center w-full p-12">
             <div className="w-full text-center gap-5 mb-10">
@@ -23,7 +22,10 @@ export default function PracticeArea() {
             <div className="w-full flex flex-row items-center justify-between gap-32 p-12">
                 <div className="flex flex-col gap-5 w-[700px]">
                     <h1 className="font-semibold text-2xl">Criminal Law</h1>
-                    <p className="font-normal text-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptate, velit quos molestias optio possimus hic qui tempora consectetur obcaecati ab officiis illo, unde iure esse eum? Ullam, sapiente sunt!</p>
+                    <p className="font-normal text-xl">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptate, velit quos molestias optio possimus hic qui tempora
+                        consectetur obcaecati ab officiis illo, unde iure esse eum? Ullam, sapiente sunt!
+                    </p>
                     <div className="">
                         <Button className="bg-yellow-400">Read More</Button>
                     </div>
@@ -36,7 +38,10 @@ export default function PracticeArea() {
             <div className="w-full flex flex-row items-center justify-between gap-32 p-12">
                 <div className="flex flex-col gap-5 w-[700px]">
                     <h1 className="font-semibold text-2xl">Criminal Law</h1>
-                    <p className="font-normal text-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptate, velit quos molestias optio possimus hic qui tempora consectetur obcaecati ab officiis illo, unde iure esse eum? Ullam, sapiente sunt!</p>
+                    <p className="font-normal text-xl">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptate, velit quos molestias optio possimus hic qui tempora
+                        consectetur obcaecati ab officiis illo, unde iure esse eum? Ullam, sapiente sunt!
+                    </p>
                     <div className="">
                         <Button className="bg-yellow-400">Read More</Button>
                     </div>
@@ -49,7 +54,10 @@ export default function PracticeArea() {
             <div className="w-full flex flex-row items-center justify-between gap-32 p-12">
                 <div className="flex flex-col gap-5 w-[700px]">
                     <h1 className="font-semibold text-2xl">Criminal Law</h1>
-                    <p className="font-normal text-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptate, velit quos molestias optio possimus hic qui tempora consectetur obcaecati ab officiis illo, unde iure esse eum? Ullam, sapiente sunt!</p>
+                    <p className="font-normal text-xl">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptate, velit quos molestias optio possimus hic qui tempora
+                        consectetur obcaecati ab officiis illo, unde iure esse eum? Ullam, sapiente sunt!
+                    </p>
                     <div className="">
                         <Button className="bg-yellow-400">Read More</Button>
                     </div>
@@ -62,7 +70,10 @@ export default function PracticeArea() {
             <div className="w-full flex flex-row items-center justify-between gap-32 p-12">
                 <div className="flex flex-col gap-5 w-[700px]">
                     <h1 className="font-semibold text-2xl">Criminal Law</h1>
-                    <p className="font-normal text-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptate, velit quos molestias optio possimus hic qui tempora consectetur obcaecati ab officiis illo, unde iure esse eum? Ullam, sapiente sunt!</p>
+                    <p className="font-normal text-xl">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptate, velit quos molestias optio possimus hic qui tempora
+                        consectetur obcaecati ab officiis illo, unde iure esse eum? Ullam, sapiente sunt!
+                    </p>
                     <div className="">
                         <Button className="bg-yellow-400">Read More</Button>
                     </div>
@@ -75,7 +86,10 @@ export default function PracticeArea() {
             <div className="w-full flex flex-row items-center justify-between gap-32 p-12">
                 <div className="flex flex-col gap-5 w-[700px]">
                     <h1 className="font-semibold text-2xl">Criminal Law</h1>
-                    <p className="font-normal text-xl">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptate, velit quos molestias optio possimus hic qui tempora consectetur obcaecati ab officiis illo, unde iure esse eum? Ullam, sapiente sunt!</p>
+                    <p className="font-normal text-xl">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis voluptate, velit quos molestias optio possimus hic qui tempora
+                        consectetur obcaecati ab officiis illo, unde iure esse eum? Ullam, sapiente sunt!
+                    </p>
                     <div className="">
                         <Button className="bg-yellow-400">Read More</Button>
                     </div>

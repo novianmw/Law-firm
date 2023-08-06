@@ -1,4 +1,4 @@
-import { attorneys } from "../constant";
+import { attorneys } from '../constant'
 
 export default function Attorneys() {
     return (
@@ -14,7 +14,7 @@ export default function Attorneys() {
                         <div className="absolute bottom-10 mx-16 flex justify-center items-center border-2">
                             <h1 className="text-white font-semibold text-xl text-center">{attorney.name}</h1>
                         </div>
-                </div>
+                    </div>
                 ))}
             </div>
         </div>

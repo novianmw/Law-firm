@@ -29,4 +29,35 @@ import content3 from './content3.jpg'
 import content4 from './content4.jpg'
 import content5 from './content5.jpg'
 
-export { HeroImage, law1, law2, law3, law4, law5, person1, person2, person3, person4, person5, person6, person7, person8, person9, person10, icon1, icon2, icon3, icon4, icon5, icon6, icon7, icon8, icon9, content1, content2, content3, content4, content5 }
+export {
+    HeroImage,
+    law1,
+    law2,
+    law3,
+    law4,
+    law5,
+    person1,
+    person2,
+    person3,
+    person4,
+    person5,
+    person6,
+    person7,
+    person8,
+    person9,
+    person10,
+    icon1,
+    icon2,
+    icon3,
+    icon4,
+    icon5,
+    icon6,
+    icon7,
+    icon8,
+    icon9,
+    content1,
+    content2,
+    content3,
+    content4,
+    content5,
+}
