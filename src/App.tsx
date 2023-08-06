@@ -7,12 +7,12 @@ export default function App() {
             <Hero />
             <About />
             <Stats />
-            {/* <PracticeArea /> */}
-            {/* <Testimonials /> */}
-            {/* <RecentProjects /> */}
-            {/* <Attorneys /> */}
-            {/* <Article /> */}
-            {/* <Footer /> */}
+            <PracticeArea />
+            <Testimonials />
+            <RecentProjects />
+            <Attorneys />
+            <Article />
+            <Footer />
         </div>
     )
 }
