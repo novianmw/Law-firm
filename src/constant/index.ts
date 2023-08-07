@@ -24,6 +24,11 @@ import {
     icon7,
     icon8,
     icon9,
+    content4,
+    content2,
+    content1,
+    content3,
+    content5,
 } from '../assets/images/list'
 
 export const stats = [
@@ -80,6 +85,40 @@ export const services = [
         img: icon7,
     },
 ]
+
+export const practiceAreas = [
+    {
+        title: 'Criminal Law',
+        content: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores in aperiam nam, delectus expedita blanditiis id tempora deleniti facilis repudiandae, culpa dolorum. Quis ratione exercitationem molestiae et aliquid quaerat perferendis. Ab, doloremque quis saepe pariatur placeat commodi deleniti reprehenderit eos cumque ea asperiores est, suscipit facilis veritatis fugit omnis deserunt dolores ullam expedita ipsam minus laborum? Et ipsam officia esse. Ratione, vel voluptatem? Reprehenderit ipsam modi delectus inventore, rem ratione tempore voluptate vel eum libero vitae nobis! Quia itaque officiis sed asperiores placeat, exercitationem est neque, maiores facilis a excepturi. Quae dolorem iure atque sequi at voluptatum dicta culpa enim minus fugit! Aspernatur tempora assumenda vero dolore dolor, debitis, necessitatibus et, excepturi accusamus fuga voluptate veniam? Incidunt animi aperiam expedita. Cum perferendis odio alias, magni ullam eligendi delectus temporibus facilis voluptates eum assumenda aut aliquid natus nemo eos expedita, sed dicta necessitatibus minus autem tenetur sit praesentium earum. Perferendis, culpa?',
+        icon: icon4,
+        image: content1
+    },
+    {
+        title: 'Business Law',
+        content: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores in aperiam nam, delectus expedita blanditiis id tempora deleniti facilis repudiandae, culpa dolorum. Quis ratione exercitationem molestiae et aliquid quaerat perferendis. Ab, doloremque quis saepe pariatur placeat commodi deleniti reprehenderit eos cumque ea asperiores est, suscipit facilis veritatis fugit omnis deserunt dolores ullam expedita ipsam minus laborum? Et ipsam officia esse. Ratione, vel voluptatem? Reprehenderit ipsam modi delectus inventore, rem ratione tempore voluptate vel eum libero vitae nobis! Quia itaque officiis sed asperiores placeat, exercitationem est neque, maiores facilis a excepturi. Quae dolorem iure atque sequi at voluptatum dicta culpa enim minus fugit! Aspernatur tempora assumenda vero dolore dolor, debitis, necessitatibus et, excepturi accusamus fuga voluptate veniam? Incidunt animi aperiam expedita. Cum perferendis odio alias, magni ullam eligendi delectus temporibus facilis voluptates eum assumenda aut aliquid natus nemo eos expedita, sed dicta necessitatibus minus autem tenetur sit praesentium earum. Perferendis, culpa?',
+        icon: icon6,
+        image: content2
+    },
+    {
+        title: 'Workplace Accident',
+        content: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores in aperiam nam, delectus expedita blanditiis id tempora deleniti facilis repudiandae, culpa dolorum. Quis ratione exercitationem molestiae et aliquid quaerat perferendis. Ab, doloremque quis saepe pariatur placeat commodi deleniti reprehenderit eos cumque ea asperiores est, suscipit facilis veritatis fugit omnis deserunt dolores ullam expedita ipsam minus laborum? Et ipsam officia esse. Ratione, vel voluptatem? Reprehenderit ipsam modi delectus inventore, rem ratione tempore voluptate vel eum libero vitae nobis! Quia itaque officiis sed asperiores placeat, exercitationem est neque, maiores facilis a excepturi. Quae dolorem iure atque sequi at voluptatum dicta culpa enim minus fugit! Aspernatur tempora assumenda vero dolore dolor, debitis, necessitatibus et, excepturi accusamus fuga voluptate veniam? Incidunt animi aperiam expedita. Cum perferendis odio alias, magni ullam eligendi delectus temporibus facilis voluptates eum assumenda aut aliquid natus nemo eos expedita, sed dicta necessitatibus minus autem tenetur sit praesentium earum. Perferendis, culpa?',
+        icon: icon5,
+        image: content3
+    },
+    {
+        title: 'Divorce Law',
+        content: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores in aperiam nam, delectus expedita blanditiis id tempora deleniti facilis repudiandae, culpa dolorum. Quis ratione exercitationem molestiae et aliquid quaerat perferendis. Ab, doloremque quis saepe pariatur placeat commodi deleniti reprehenderit eos cumque ea asperiores est, suscipit facilis veritatis fugit omnis deserunt dolores ullam expedita ipsam minus laborum? Et ipsam officia esse. Ratione, vel voluptatem? Reprehenderit ipsam modi delectus inventore, rem ratione tempore voluptate vel eum libero vitae nobis! Quia itaque officiis sed asperiores placeat, exercitationem est neque, maiores facilis a excepturi. Quae dolorem iure atque sequi at voluptatum dicta culpa enim minus fugit! Aspernatur tempora assumenda vero dolore dolor, debitis, necessitatibus et, excepturi accusamus fuga voluptate veniam? Incidunt animi aperiam expedita. Cum perferendis odio alias, magni ullam eligendi delectus temporibus facilis voluptates eum assumenda aut aliquid natus nemo eos expedita, sed dicta necessitatibus minus autem tenetur sit praesentium earum. Perferendis, culpa?',
+        icon: icon3,
+        image: content4
+    },
+    {
+        title: 'Real Estate Law',
+        content: 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Asperiores in aperiam nam, delectus expedita blanditiis id tempora deleniti facilis repudiandae, culpa dolorum. Quis ratione exercitationem molestiae et aliquid quaerat perferendis. Ab, doloremque quis saepe pariatur placeat commodi deleniti reprehenderit eos cumque ea asperiores est, suscipit facilis veritatis fugit omnis deserunt dolores ullam expedita ipsam minus laborum? Et ipsam officia esse. Ratione, vel voluptatem? Reprehenderit ipsam modi delectus inventore, rem ratione tempore voluptate vel eum libero vitae nobis! Quia itaque officiis sed asperiores placeat, exercitationem est neque, maiores facilis a excepturi. Quae dolorem iure atque sequi at voluptatum dicta culpa enim minus fugit! Aspernatur tempora assumenda vero dolore dolor, debitis, necessitatibus et, excepturi accusamus fuga voluptate veniam? Incidunt animi aperiam expedita. Cum perferendis odio alias, magni ullam eligendi delectus temporibus facilis voluptates eum assumenda aut aliquid natus nemo eos expedita, sed dicta necessitatibus minus autem tenetur sit praesentium earum. Perferendis, culpa?',
+        icon: icon7,
+        image: content5
+    },
+]
+
 
 export const attorneys = [
     {
